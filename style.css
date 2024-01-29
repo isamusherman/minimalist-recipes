@@ -1,5 +1,6 @@
-.site-name{
+#site-name{
     text-align: center;
-    size: 50px;
-
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
 }
