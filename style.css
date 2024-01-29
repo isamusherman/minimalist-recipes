@@ -1,3 +1,6 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
 .page-titles{
     text-align: center;
     background-color: bisque;
