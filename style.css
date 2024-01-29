@@ -1,5 +1,6 @@
 .page-titles{
     text-align: center;
+    background-color: bisque;
 }
 
 #site-name{
@@ -7,4 +8,6 @@
     font-size: 100px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 700;
+    background-color: white;
 }
+
