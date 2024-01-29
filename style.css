@@ -11,7 +11,7 @@
     background-color: white;
 }
 
-a{
+.recipe{
     color: black;
     font-weight: 900;
     text-decoration: none;
@@ -22,7 +22,7 @@ a:hover{
     background-color: whitesmoke;
 }
 
-ul{
+#recipe-list{
     font-size: 40px;
     text-align: center;
     display: block;
