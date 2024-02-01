@@ -25,7 +25,7 @@ a:hover{
     background-color: whitesmoke;
 }
 
-#recipe-list{
+.recipe-list{
     font-size: 40px;
     text-align: center;
     display: block;
