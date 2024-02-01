@@ -21,7 +21,7 @@
     background-color: lightgray;
 }
 
-a:hover{
+.recipe-list a:hover{
     background-color: whitesmoke;
 }
 
@@ -30,4 +30,10 @@ a:hover{
     text-align: center;
     display: block;
     list-style-type: none;
+}
+
+.recipe-list li{
+    margin: 12px auto;
+    border-style: solid;
+    width: fit-content;
 }
